@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+  <EditText
+      android:id="@+id/ediText1Id"
+      android:layout_width="200dp"
+      android:layout_height="50dp"
+      android:textSize="20sp"
+      android:textStyle="bold"
+      android:hint="@string/editText1"
+      android:inputType="numberDecimal"
+      android:backgroundTint="#2088B8"
+      android:textCursorDrawable="@null"
+      />
+
+  <EditText
+      android:id="@+id/ediText2Id"
+      android:layout_width="200dp"
+      android:layout_height="50dp"
+      android:textSize="20sp"
+      android:textStyle="bold"
+      android:hint="@string/editText2"
+      android:inputType="numberDecimal"
+      android:backgroundTint="#00A0EA"
+      android:textCursorDrawable="@null"
+      />
+    <LinearLayout
+        android:layout_margin="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/addButtonId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:text="@string/add_Test"
+            android:textStyle="italic"
+            android:textSize="20sp"
+            />
+        <Button
+            android:id="@+id/subButtonId"
+            android:layout_width="wrap_content"
+            android:layout_margin="10sp"
+            android:layout_height="wrap_content"
+            android:text="@string/sub_Test"
+            android:textStyle="italic"
+            android:textSize="20sp"
+            />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/resultTextViewId"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        />
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">projrct 02</string>
+
+    <string name="GafargaonDetails">Gafargaon is a sub-district (upazila) in the Mymensingh District
+        of Bangladesh. It is situated in the central part of the country. The region is known for its
+        agricultural activities, and the economy is primarily based on agriculture. Gafargaon has a
+        rural setting, with a significant portion of its population engaged in farming.
+        \n\n
+        Gafargaon is a sub-district (upazila) in the Mymensingh District
+        of Bangladesh. It is situated in the central part of the country. The region is known for its
+        agricultural activities, and the economy is primarily based on agriculture. \n\n Gafargaon has a
+        rural setting, with a significant portion of its population engaged in farmingGafargaon is a sub-district (upazila) in the Mymensingh District
+        of Bangladesh. It is situated in the central part of the country. The region is known for its
+        agricultural activities, and the economy is primarily based on agriculture.\n\n Gafargaon has a
+        rural setting, with a significant portion of its population engaged in farmingGafargaon is a sub-district (upazila) in the Mymensingh District
+        of Bangladesh. It is situated in the central part of the country. The region is known for its
+        agricultural activities, and the economy is primarily based on agriculture. \n\n Gafargaon has a
+        rural setting, with a significant portion of its population engaged in farmingGafargaon is a sub-district (upazila) in the Mymensingh District
+        of Bangladesh. It is situated in the central part of the country. The region is known for its
+        agricultural activities, and the economy is primarily based on agriculture. \n\n Gafargaon has a
+        rural setting, with a significant portion of its population engaged in farming \n\n Gafargaon is a sub-district (upazila) in the Mymensingh District
+        of Bangladesh. It is situated in the central part of the country. The region is known for its
+        agricultural activities, and the economy is primarily based on agriculture. Gafargaon has a
+        rural setting, with a significant portion of its population engaged in farming
+    </string>
+
+    <string name="age"> 22 year old</string>
+    <string name="login_button_name">Login</string>
+    <string name="logout_button_name">Logout</string>
+    <string name="editText1"> Enter Number 1</string>
+    <string name="editText2">Enter Number 2</string>
+    <string name="add_Test" >Add</string>
+    <string name="sub_Test" >Sub</string>
+</resources>
